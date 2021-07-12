@@ -4,5 +4,6 @@
 
 ### __Exercícios__
 
-* ___Calendar___ -> [__ExercicioFinalCalendar.java__](https://github.com/Henrique-dSGP/Dio-aulas-java-exercicios/blob/master/ExercicioFinalCalendar.java)
+* ___Calendar___ -> [__ExercicioFinalCalendar.java__](https://github.com/Henrique-dSGP/Dio-aulas-java-exercicios/blob/master/dio/aula/java/exercicios/ExercicioFinalCalendar.java)
+* ___Dates & Calendar intro___ -> [__TrabalhandoComDatas.java__](https://github.com/Henrique-dSGP/Dio-aulas-java-exercicios/blob/master/dio/aula/java/exercicios/TrabalhandoComDatas.java)
 

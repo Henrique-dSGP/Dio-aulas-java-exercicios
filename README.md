@@ -1,4 +1,4 @@
-# Dio-aulas-java-exercicios
+# DIO-aulas-java-exercicios
 
 ## Destinado para salvar exercícios realizados em java no Santander Bootcamp | Fullstack Developer
 

@@ -14,11 +14,11 @@
 #### __2 - Avançado__
 
 * ___Exemplo de Inferencia___ -> [__ExemploInferencia.java__](https://github.com/Henrique-dSGP/Dio-aulas-java-exercicios/blob/master/dio/aula/java/avancado/exercicios/ExemploInferencia.java)
+* ___Exemplo de Optionals___ -> [__ExemploOptional.java__](https://github.com/Henrique-dSGP/Dio-aulas-java-exercicios/blob/master/dio/aula/java/avancado/exercicios/ExemploOptional.java)
 * ___Exemplo de Thread___ -> [__ExemploThread.java__](https://github.com/Henrique-dSGP/Dio-aulas-java-exercicios/blob/master/dio/aula/java/avancado/exercicios/ExemploThread.java)
 * ___Exemplo de Função de Alta Ordem___ -> [__FuncaoAltaOrdem.java__](https://github.com/Henrique-dSGP/Dio-aulas-java-exercicios/blob/master/dio/aula/java/avancado/exercicios/FuncaoAltaOrdem.java)
 * ___Exemplo de Paradigma Funcional___ -> [__ParadigmaFuncional.java__](https://github.com/Henrique-dSGP/Dio-aulas-java-exercicios/blob/master/dio/aula/java/avancado/exercicios/ParadigmaFuncional.java)
 * ___Exemplo de Recursividade___ -> [__Recursividade.java__](https://github.com/Henrique-dSGP/Dio-aulas-java-exercicios/blob/master/dio/aula/java/avancado/exercicios/Recursividade.java)
-
 
 #### __3 - Collections__
 

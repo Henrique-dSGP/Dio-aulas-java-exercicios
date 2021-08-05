@@ -1,11 +1,6 @@
 # DIO-aulas-java-exercicios
 
 ## Destinado para salvar exercícios realizados e exemplos em java ao decorrer do curso Santander Bootcamp | Fullstack Developer
-
-<<<<<<< HEAD
-### __Exercícios__
-
-=======
 ## __Exercícios__
 #### __1 - Básico__
 

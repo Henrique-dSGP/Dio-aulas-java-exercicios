@@ -2,8 +2,11 @@
 
 ## Destinado para salvar exercícios realizados e exemplos em java ao decorrer do curso Santander Bootcamp | Fullstack Developer
 
+<<<<<<< HEAD
 ### __Exercícios__
 
+=======
+## __Exercícios__
 #### __1 - Básico__
 
 * ___Calendar Exercício Final___ -> [__ExercicioFinalCalendar.java__](https://github.com/Henrique-dSGP/Dio-aulas-java-exercicios/blob/master/dio/aula/java/basico/exercicios/ExercicioFinalCalendar.java)
